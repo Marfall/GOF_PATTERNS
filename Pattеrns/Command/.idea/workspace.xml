@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="059c0af3-6694-48ac-a6e6-315d7b9c7d1e" name="Default Changelist" comment="" />
+    <list default="true" id="059c0af3-6694-48ac-a6e6-315d7b9c7d1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/CoffeeCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/CoffeeCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/CoffeeMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/CoffeeMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/Light.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/LightAndMusicCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/LightAndMusicCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/LightCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/LightCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/MusicCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/MusicCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/MusicPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Command/PhoneCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Command/PhoneCommand.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +28,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1SpoH6z3bP9NKNYvuSCkLM2KZXu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,10 +75,22 @@
       <option name="presentableId" value="Default" />
       <updated>1572269807634</updated>
       <workItem from="1572269810483" duration="3318000" />
+      <workItem from="1572294762654" duration="1220000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
